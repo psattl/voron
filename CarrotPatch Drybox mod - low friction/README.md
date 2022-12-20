@@ -7,4 +7,6 @@ The new connector from the spool to the buffer is designed as a clip for an elec
 
 The MainStand is more stable an has a bearing roll for the spool.
 
+![81bFQtuq1HL _AC_UL640_QL65_](https://user-images.githubusercontent.com/113828518/208553323-fff763d0-1bb4-49b8-9369-66e029e380ab.jpg)
+
 ![Carrot Patch IKEA-Drybox mod - V1 2 LessFrictionUpgrade](https://user-images.githubusercontent.com/113828518/208548152-d0b49000-b78b-4efe-889b-2b3845f8ecb9.png)
