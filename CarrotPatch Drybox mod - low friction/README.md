@@ -1,7 +1,7 @@
 # voron
 
 A modification of the IKEA Drybox Mod (Carrot-Patch) <br>
-I had some isues with friction. So I made these mayor changes.<br>
+I had some issues with friction. So I made these mayor changes.<br>
 
 The new connector from the spool to the buffer is designed as a clip for an electricity interior wall tube </p>(search for: REV 0579217555 Iso-Tube, Cable Tube EN16 Flexible)<br>
 
