@@ -8,8 +8,8 @@ I had some issues with friction. So I made these mayor changes.<br>
 The new connector from the spool to the buffer is designed as a clip for an electricity interior wall tube </p>(search for: REV 0579217555 Iso-Tube, Cable Tube EN16 Flexible)<br>
 <table>
   <tr>
-    <td>![TubeConnectorParts](https://user-images.githubusercontent.com/113828518/208752088-d49915d0-f6f9-4939-9d01-2c770e737ac5.jpg)</td>
-    <td>![mounted-tubeConnector](https://user-images.githubusercontent.com/113828518/208752139-c912c6d8-1e4d-4f75-bb03-cc6eb5041ecf.jpg)</td>
+    <td><img src="https://raw.githubusercontent.com/psattl/voron/main/CarrotPatch%20Drybox%20mod%20-%20low%20friction/img/mounted-tubeConnector.jpg"></td>
+    <td><img src="https://raw.githubusercontent.com/psattl/voron/main/CarrotPatch%20Drybox%20mod%20-%20low%20friction/img/TubeConnectorParts.jpg"></td>
   </tr>
 </table>
 
