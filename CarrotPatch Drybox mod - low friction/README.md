@@ -2,8 +2,13 @@
 
 Attention! This is an early beta project. <br>
 
-A modification of the IKEA Drybox Mod (Carrot-Patch) <br>
-I had some issues with friction. So I made these mayor changes.<br>
+A modification of the IKEA Drybox Mod (Carrot-Patch) <br>source: <a href="https://github.com/EtteGit/EnragedRabbitProject/tree/main/usermods/IKEA_Drybox_Carrot_Patch">EtteGit/EnragedRabbiteProject/usermods/IKEA_Drybox_Carrot_Patch/</a><br>
+I had some issues with friction. So I made these mayor changes.</p>
+Reducing the friction:<br>
+1. of te bowden from the drybox to the ERF <br>
+2. at the 90° bend from the spool to the buffer <br>
+3. of the spool by adding bearings <br>
+
 
 The new connector from the spool to the buffer is designed as a clip for an electricity interior wall tube </p>(search for: REV 0579217555 Iso-Tube, Cable Tube EN16 Flexible)<br>
 <table>
